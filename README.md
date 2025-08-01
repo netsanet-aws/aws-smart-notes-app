@@ -73,8 +73,8 @@ This project allows users to upload notes (e.g., PDF or image files) and receive
 Netsanet Mulat
 AWS Cloud Solutions Architect Portfolio Project (2025)
 
-🔗 [GitHub](httpsgithub.comnetsanet-aws)
-🔗 [LinkedIn](httpswww.linkedin.cominnetsanet-mulat-034b37301)
+[GitHub](https://github.com/netsanet-aws)
+[LinkedIn](https://www.linkedin.com/in/netsanet-mulat-034b37301/)
 
 ---
 
